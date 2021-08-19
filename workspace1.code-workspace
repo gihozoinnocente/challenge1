@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\challenge.1-main"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cars-preview-card-starter-main"
+	}
+}
